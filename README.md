@@ -18,7 +18,7 @@
 # Format
    k-means and dbscan use following format string (string of 3 dimensional array of size [x,y,n]):
    
-   [[[n0,n1,n2,...],[n0,n1,n2,...]],[[n0,n1,n2,...],[n0,n1,n2,...]],...]
+    [[[n0,n1,n2,...],[n0,n1,n2,...]],[[n0,n1,n2,...],[n0,n1,n2,...]],...]
 
 # Usage
 ## k-means
