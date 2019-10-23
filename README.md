@@ -53,4 +53,4 @@
 # Copyright
    All the images were taken from internet and therefore belong to their respective owners.
    
-   You are free to download, use and modify my code for any purpose.
+   Algorithms were not invented by me, I merely just implemented them.
