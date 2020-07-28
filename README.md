@@ -1,3 +1,10 @@
+# K-means and DBSCAN
+K-means and DBSCAN are clustering algorithms, which we apply for color segmentation in images.
+
+K-means tries to find a color representatives for a number of classes given, i.e., most average color for each class, which is most similar to the colors within the class but as different as possible from colors in other classes.
+
+DBSCAN is so called density-based clustering algorithm, which tries to group similar colors into different classes based on how densely they are positioned together.
+
 # Files
    0_read.py - reads image and outputs its pixel values as vector array
    
